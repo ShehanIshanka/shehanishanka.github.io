@@ -11,3 +11,9 @@ ehthumbs.db
 Gemfile.lock
 
 beautiful-jekyll-theme-*.gem
+
+# IntelliJ related
+*.iml
+*.ipr
+*.iws
+.idea/
