@@ -1,16 +1,43 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: /usr/bin/whoami
+share-title: Shehan Ishanka - About Me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+<span class="fa fa-briefcase about-icon"></span> Experience
+----------
+Aug 2019 - Present 
+:   Software Engineer - PickMe (Digital Mobility Solutions Lanka (PVT) Ltd)
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+Feb 2019 - Aug 2019 
+:   Associate Software Engineer - PickMe (Digital Mobility Solutions Lanka (PVT) Ltd)
 
-What else do you need?
+June 2017 - Dec 2017 
+:   Intern Technical Engineering - Synopsys Lanka (Pvt) Ltd
+     
+<span class="fa fa-graduation-cap about-icon"></span> Education
+---------
 
-### My story
+2020 - 2021 (expected)
+:   MSC in Computer Science specialized in Data Science - University of Moratuwa
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
+     Estimation Problem*
+
+2014 - 2018
+:   Bachelor of Science (B.Sc.) (Hons) in Electronic and Telecommunication - University of Moratuwa
+
+    *GPA - 3.69/4.20
+     Activities
+      - Assistant Secretary of E-Club 
+      - Environmental director of LEO Club of University of Moratuwa
+      - Member of Nature Team
+      - Member of IEEE University of Moratuwa Student Branch*
+      
+2000 - 2013
+:   Rahula College - Matara
+
+    *~ Island rank - 36 in GCE(A/L) examination-2013 with a z-score of 2.5936
+     ~ Island rank - 9 in GCE(O/L) examination-2010
+     Activities
+      - Senior Prefect at Board of Prefects (2009-2012)*
