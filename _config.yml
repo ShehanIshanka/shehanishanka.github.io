@@ -14,8 +14,8 @@ author: Shehan Ishanka
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Articles:
-  Projects:
+  Articles: "articles"
+  Projects: "projects"
   About Me: "aboutme"
 
 # --- Logo --- #
