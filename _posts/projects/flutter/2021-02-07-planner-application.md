@@ -16,10 +16,10 @@ It is really easy to develop a mobile application using Flutter compared to conv
 
 After learning Flutter, I wanted to develop a mobile application and I was thinking of a use case. 
 One day, I was at a sprint planning session in my workplace and my team lead was logging all the tasks which were assigned to team members, in an Excel sheet. 
-This is a bit of a tiresome process and I got the idea that it would be easier to have an application to log these kind of data easily.
-Further because of this project, I got the opportunity to learn how to publish an application to Play store<br>  
+This is a bit of a tiresome process and I got the idea that it would be better to have an application to log these kind of data easily.
+Further because of this project, I got the opportunity to learn how to publish an application to Play Store.<br>  
 
-Planner application mainly helps to easily manage projects among team members. 
+Planner application mainly helps to manage projects among team members. 
 Application has the ability to add members and create project sheets.
 Through project sheets you can <br>
 1. Select members for the projects
@@ -50,13 +50,13 @@ Check the instruction page in the application or <a href="https://youtu.be/s40YZ
 ##### Screen shots of the applications<br>
 
 <kbd>
- <img src="/assets/img/projects/flutter/Screenshots/2.png" width="20%" height="20%"/> 
- <img src="/assets/img/projects/flutter/Screenshots/4.png" width="20%" height="20%"/> 
- <img src="/assets/img/projects/flutter/Screenshots/8.png" width="20%" height="20%"/> 
- <img src="/assets/img/projects/flutter/Screenshots/9.png" width="20%" height="20%"/> 
- <img src="/assets/img/projects/flutter/Screenshots/15.png" width="20%" height="20%"/> 
- <img src="/assets/img/projects/flutter/Screenshots/11.png" width="20%" height="20%" /> 
- <img src="/assets/img/projects/flutter/Screenshots/16.png" width="20%" height="20%" />
+ <img src="/assets/img/projects/flutter/screenshots/2.png" width="20%" height="20%"/> 
+ <img src="/assets/img/projects/flutter/screenshots/4.png" width="20%" height="20%"/> 
+ <img src="/assets/img/projects/flutter/screenshots/8.png" width="20%" height="20%"/> 
+ <img src="/assets/img/projects/flutter/screenshots/9.png" width="20%" height="20%"/> 
+ <img src="/assets/img/projects/flutter/screenshots/15.png" width="20%" height="20%"/> 
+ <img src="/assets/img/projects/flutter/screenshots/11.png" width="20%" height="20%" /> 
+ <img src="/assets/img/projects/flutter/screenshots/16.png" width="20%" height="20%" />
 </kbd>
 
 ##### References
