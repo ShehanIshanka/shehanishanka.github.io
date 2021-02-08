@@ -45,7 +45,7 @@ Through project sheets you can <br>
 	
 Check the instruction page in the application or <a href="https://youtu.be/s40YZ2oIuUc" target="_top">intro video</a> to identify the functionality.<br>
 
-<img src="/assets/img/projects/flutter/Screenshots/play.gif" width="80%" height="80%"/> 
+<img src="/assets/img/projects/flutter/screenshots/play.gif" width="80%" height="80%"/> 
 
 ##### Screen shots of the applications<br>
 
