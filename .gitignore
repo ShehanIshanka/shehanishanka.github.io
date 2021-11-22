@@ -3,6 +3,7 @@ _site
 .sass-cache
 .vagrant
 .jekyll-cache/
+.ruby-version
 
 # general
 .DS_Store

@@ -6,7 +6,10 @@ share-title: Shehan Ishanka - About Me
 
 <span class="fa fa-briefcase about-icon"></span> Experience
 ----------
-Aug 2019 - Present 
+Aug 2021 - Present
+:   Software Engineer - H2O.ai
+
+Aug 2019 - Aug 2021
 :   Software Engineer - PickMe (Digital Mobility Solutions Lanka (PVT) Ltd)
 <pre>
 ★ Implementing ETL Pipelines to extract raw data from Production databases to the Data lake
