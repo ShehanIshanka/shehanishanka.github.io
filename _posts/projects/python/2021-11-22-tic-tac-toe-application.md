@@ -21,7 +21,7 @@ Further application is provided with selecting the game mode; Easy, Medium and H
 In Easy mode, application will perform a random move while in Medium mode, application's next move is determined by attempting to block opponent.
 Hard Mode is set up with Minimax algorithm[2].
 
-Try the game by cloning github repo. !!!!!
+Try the game by cloning <a href="https://github.com/ShehanIshanka/tic-tac-toe" target="_top">github repo</a>. !!!!!
 
 <img src="/assets/img/projects/python/tic-tac-toe.gif" width="80%" height="80%"/>
 
