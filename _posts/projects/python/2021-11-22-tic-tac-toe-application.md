@@ -11,14 +11,14 @@ share: true
 tags: [Python]
 ---
 
-H2O Wave Framework[1] is a software stack for building beautiful, low-latency, realtime, browser-based applications and dashboards entirely in Python without using HTML, Javascript, or CSS. 
-It is really easy to use the framework to build web apps specially for data visualizations related tasks.<br>
+H2O Wave Framework[1] is a software stack for building beautiful, low-latency, real-time, browser-based applications and dashboards entirely in Python without using HTML, Javascript, or CSS.
+It is really easy to use the framework to build web apps, especially for data visualization related tasks.<br>
 
-Couple of months back, I got to know about Wave Framework and I thought of it. 
-As usual, I created a small application, Tic Tac Toe game, using the framework using v0.17.0 SDK. 
-The game has the ability to play with user and application. 
-Further application is provided with selecting the game mode; Easy, Medium and Hard.
-In Easy mode, application will perform a random move while in Medium mode, application's next move is determined by attempting to block opponent.
+A couple of months back, I got to know about Wave Framework and I thought of learning it.
+As usual, I created a small application, Tic Tac Toe game, using the framework using v0.17.0 SDK.
+The game has the ability to play with user and application.
+Further application is provided with selecting the game mode; Easy, Medium, and Hard.
+In Easy mode, the application will perform a random move while in Medium mode, the application's next move is determined by attempting to block the opponent.
 Hard Mode is set up with Minimax algorithm[2].
 
 Try the game by cloning <a href="https://github.com/ShehanIshanka/tic-tac-toe" target="_top">github repo</a>. !!!!!
