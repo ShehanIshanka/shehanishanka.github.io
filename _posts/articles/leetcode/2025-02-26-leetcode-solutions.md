@@ -3,7 +3,7 @@ layout: post
 title: LeetCode Solutions
 comments: false
 share: false
-tags: [ algo ]
+tags: [ Algo ]
 ---
 
 <style>
@@ -13,6 +13,10 @@ tags: [ algo ]
     padding: 5px;
   }
 </style>
+
+Welcome to my post dedicated to solving LeetCode problems! <br>
+Here, we explore various coding challenges and provide detailed solutions to help you enhance your problem-solving skills.
+<br>
 
 ## Problem List
 
@@ -39,6 +43,9 @@ tags: [ algo ]
   </table>
 
 </details>
+
+<br>
+
 <details>
   <summary>Two Pointers</summary>
 
