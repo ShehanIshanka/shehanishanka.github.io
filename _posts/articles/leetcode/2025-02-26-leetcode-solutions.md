@@ -56,7 +56,7 @@ tags: [ algo ]
 </details>
 
 
-<h3 id="contains-duplicate">Contains Duplicate [🔼](#problem-list) </h3> 
+<h3 id="contains-duplicate">Contains Duplicate <a href='#problem-list'>🔼</a> </h3> 
 
 {% include_relative solutions/arrays-and-hashing/contains_duplicate.md %}
 
