@@ -6,6 +6,14 @@ share: false
 tags: [ algo ]
 ---
 
+<style>
+  summary {
+    font-size: 16px;
+    font-weight: bold;
+    padding: 5px;
+  }
+</style>
+
 ## Problem List
 
 <details>
@@ -56,10 +64,10 @@ tags: [ algo ]
 </details>
 
 
-<h3 id="contains-duplicate">Contains Duplicate <a href='#problem-list'>🔼</a> </h3> 
+<h3 id="contains-duplicate">Contains Duplicate <a href='#problem-list'>🔼</a> </h3>
 
 {% include_relative solutions/arrays-and-hashing/contains_duplicate.md %}
 
-### Reverse String {#reverse-string} [🔼](#problem-list)
+<h3 id="reverse-string">Reverse String <a href='#problem-list'>🔼</a> </h3>
 
 {% include_relative solutions/two-pointers/reverse_string.md %}
