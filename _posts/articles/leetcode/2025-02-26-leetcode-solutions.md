@@ -25,6 +25,27 @@ tags: [ algo ]
 </style>
 
 ## Problem List
+<details>
+  <summary>Arrays & Hashing</summary>
+  <table>
+    <thead>
+      <tr>
+        <th>Star</th>
+        <th>Problem</th>
+        <th>Difficulty</th>
+        <th>Solution</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>★</td>
+        <td><a href="https://leetcode.com/problems/contains-duplicate/">217 - Contains Duplicate</a></td>
+        <td>Easy</td>
+        <td><a href="#contains-duplicate">🔗 Solution</a></td>
+      </tr>
+    </tbody>
+  </table>
+</details>
 
 <details>
   <summary>Arrays & Hashing</summary>
