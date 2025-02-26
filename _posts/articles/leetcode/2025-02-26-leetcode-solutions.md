@@ -1,27 +1,10 @@
 ---
 layout: post
 title: LeetCode Solutions
-share: true
+comments: false
+share: false
 tags: [ algo ]
 ---
-
-<style>
-  details {
-    background-color: #222;
-    color: #fff;
-    padding: 10px;
-    margin: 5px 0;
-    border-radius: 5px;
-    font-family: Arial, sans-serif;
-    cursor: pointer;
-  }
-
-  summary {
-    font-size: 16px;
-    font-weight: bold;
-    padding: 5px;
-  }
-</style>
 
 ## Problem List
 
@@ -45,12 +28,10 @@ tags: [ algo ]
 
 ## Solutions
 
-### Contains Duplicate
+### Contains Duplicate [🔼](#problem-list)
 
 {% include_relative solutions/arrays-and-hashing/contains_duplicate.md %}
-<br>[🔼 Back to Top](#problem-list)
 
-### Reverse String
+### Reverse String [🔼](#problem-list)
 
 {% include_relative solutions/two-pointers/reverse_string.md %}
-<br>[🔼 Back to Top](#problem-list)
