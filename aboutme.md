@@ -35,8 +35,8 @@ Nov 2023 - Present
     - Time series Sensor Data Ingestion to Timescale with Celery
     - Periodic Aggregate Calculation
     - Endpoints to expose Aggregates
+    - Integration to Admin Portal with Web Components
 
-Integration to Admin Portal with Web Components
 Aug 2021 - Nov 2023
 :   **Software Engineer - [H2O.ai](https://h2o.ai)**
 
@@ -56,7 +56,6 @@ Aug 2021 - Nov 2023
 
 Aug 2019 - Aug 2021
 :   **Software Engineer - [PickMe (Digital Mobility Solutions Lanka (PVT) Ltd)](https://pickme.lk)**
-<<<<<<< HEAD
 
 - ETL (Extract, Transform, Load) pipeline design and implementation
     - Batch ingestion pipelines using Apache Sqoop, Apache Hive, and Azkaban.
@@ -89,33 +88,6 @@ June 2017 - Dec 2017
 
 - Test cases creation, testing, and debugging for SPYGLASS Analyzer.
 - Bash script development for utility tasks.
-=======
-<pre>
-★ Implementing ETL Pipelines to extract raw data from Production databases to the Data lake • Apache Hadoop Framework
-experience • Apache Sqoop for importing data • MapReduce Programmes (Java) to process data • Uploading data to Hive
-tables • Azkaban for creating workflows
-★ Implementing business use cases, logics and algorithms to render data needs • Customer Recommendations, Merchant
-analytics etc • Hive queries and Spark programmes (Scala) - batch and near-real-time • Apache Sqoop and Kafka for
-exporting data • MapReduce utility programmes (Java) for data uploading to HBase • Azkaban for creating workflows
-★ Designing and implementing Data Service API • Play Framework (Java)
-★ Helping in data science projects - Promo Analysis
-★ Assisting in mentoring newbies
-</pre>
-
-Feb 2019 - Aug 2019
-:   **Associate Software Engineer - [PickMe (Digital Mobility Solutions Lanka (PVT) Ltd)](https://pickme.lk)**
-
-- Data Science project experience
-  - Clustering techniques for location optimization.
-  - Demand analysis for driver and merchant placement.
-
-June 2017 - Dec 2017
-:   **Intern Technical Engineering - [Synopsys Lanka (Pvt) Ltd](https://www.synopsys.com)**
-
-- Test cases creation, testing, and debugging for SPYGLASS Analyzer.
-- Bash script development for utility tasks.
-
->>>>>>> origin/master
 
 <span class="fa fa-graduation-cap about-icon"></span> Education
 ---------
