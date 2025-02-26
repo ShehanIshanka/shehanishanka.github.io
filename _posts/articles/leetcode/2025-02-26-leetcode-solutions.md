@@ -6,6 +6,10 @@ share: false
 tags: [ Algo ]
 ---
 
+Welcome to my post dedicated to solving LeetCode problems! <br>
+Here, we explore various coding challenges and provide detailed solutions to help you enhance your problem-solving skills.
+<br>
+
 <style>
   summary {
     font-size: 16px;
@@ -13,10 +17,6 @@ tags: [ Algo ]
     padding: 5px;
   }
 </style>
-
-Welcome to my post dedicated to solving LeetCode problems! <br>
-Here, we explore various coding challenges and provide detailed solutions to help you enhance your problem-solving skills.
-<br>
 
 ## Problem List
 
@@ -44,8 +44,6 @@ Here, we explore various coding challenges and provide detailed solutions to hel
 
 </details>
 
-<br>
-
 <details>
   <summary>Two Pointers</summary>
 
@@ -70,6 +68,7 @@ Here, we explore various coding challenges and provide detailed solutions to hel
 
 </details>
 
+## Solutions
 
 <h3 id="contains-duplicate">Contains Duplicate <a href='#problem-list'>🔼</a> </h3>
 
