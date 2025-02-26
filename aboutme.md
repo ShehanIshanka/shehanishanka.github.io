@@ -4,7 +4,7 @@ title: /usr/bin/whoami
 share-title: Shehan Ishanka - About Me
 ---
 
-## About Me [Download CV](assets/cv.pdf)
+## About Me <a href="assets/cv.pdf" download><i class="fas fa-download" style="margin-left: 5px;"></i></a>
 
 Skilled Software Engineer with a strong passion for learning and leveraging new technologies to create innovative applications with a primary focus on Backend Development, Big data, and Data Engineering. 
 Committed to staying updated with the latest industry advancements and continuously expanding knowledge with a dedication to building robust and efficient software solutions to address evolving business needs.
