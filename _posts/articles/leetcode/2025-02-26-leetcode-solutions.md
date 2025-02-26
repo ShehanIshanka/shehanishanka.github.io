@@ -6,24 +6,6 @@ share: false
 tags: [ algo ]
 ---
 
-<style>
-  details {
-    background-color: #222;
-    color: #fff;
-    padding: 10px;
-    margin: 5px 0;
-    border-radius: 5px;
-    font-family: Arial, sans-serif;
-    cursor: pointer;
-  }
-
-  summary {
-    font-size: 16px;
-    font-weight: bold;
-    padding: 5px;
-  }
-</style>
-
 ## Problem List
 <details>
   <summary>Arrays & Hashing</summary>
@@ -65,17 +47,10 @@ tags: [ algo ]
 
 </details>
 
-## Solutions
-
-| Star | Problem                                                                        | Difficulty | Solution                           |
-|------|--------------------------------------------------------------------------------|------------|------------------------------------|
-| ★    | [217 - Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)  | Easy       | [🔗 Solution](#contains-duplicate) |
-| ★    | [21a7 - Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Easy       | [🔗 Solution](#contains-duplicate) |
-
-### Contains Duplicate [🔼](#problem-list)
+### Contains Duplicate {#contains-duplicate} [🔼](#problem-list)
 
 {% include_relative solutions/arrays-and-hashing/contains_duplicate.md %}
 
-### Reverse String [🔼](#problem-list)
+### Reverse String {#reverse-string} [🔼](#problem-list)
 
 {% include_relative solutions/two-pointers/reverse_string.md %}
