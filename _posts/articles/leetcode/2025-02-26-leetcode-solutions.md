@@ -78,7 +78,7 @@ Here, we explore various coding challenges and provide detailed solutions to hel
 
 <h3 id="119-pascal-triangle-ii">Pascal's Triangle II <a href='#problem-list'>🔼</a> </h3>
 
-{% include_relative solutions/arrays-and-hashing/119_pascal_triangle_ii %}
+{% include_relative solutions/arrays-and-hashing/119_pascal_triangle_ii.md %}
 
 <h3 id="217-contains-duplicate">Contains Duplicate <a href='#problem-list'>🔼</a> </h3>
 
